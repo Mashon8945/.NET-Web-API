@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "zkQcBTx8eDHLmpkXyxfnLPdNqwPp5brp6Nklna82Q9c=",
+  "Source": ".NET-Web-API",
+  "BasePath": "_content/.NET-Web-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
